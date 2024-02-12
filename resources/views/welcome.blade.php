@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pelayanan Pengaduan Masyarakat</title>
+    <title>Pelayanan Pengaduan sekolah</title>
     <link rel="icon" type="image/x-icon"
         href="https://st2.depositphotos.com/1768926/10264/v/950/depositphotos_102644096-stock-illustration-community-care-logo-template.jpg">
 </head>
@@ -18,14 +18,14 @@
         <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
             <div class="row flex-md-row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-sm-1">
                 <div class="col px-5 order-md-2 px-2">
-                    <img src="https://media3.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" alt="master-hero"
+                    <img src="https://media2.giphy.com/media/tt6SEZgLRSrSLNOf1s/giphy.webp?cid=ecf05e47aka55xn5y2i79po9uigq997a1x2i76bz3vi53x9v&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="master-hero"
                         class="img-fluid mb-3">
                 </div>
                 <div class="col d-flex justify-content-center align-items-center px-4 order-md-1 mt-3">
                     <div>
                         <h5>Selamat Datang di,</h5>
                         <h1 class="display-6" style="font-family: cambria; font-weight:800;">Pelayanan Pengaduan
-                            Masyarakat</h1>
+                            Sekolah</h1>
                         <p style="font-family:cambria;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime
                             architecto repellat tenetur
                             optio minima error aspernatur consequatur perferendis nemo libero?</p>
@@ -43,7 +43,7 @@
     <section id="formulir-pengaduan">
         <div class="container px-4" style="height: 100vh;">
             <div class="row justify-content-center align-items-center">
-                <div class="col-md-6 col-sm-6 shadow rounded px-5" style="border: 1px solid rgb(15, 177, 218);">
+                <div class="col-md-6 col-sm-6 shadow rounded px-5" style="border: 1px solid rgb(230, 216, 173);">
                     <div class="d-flex justify-content-center align-items-center">
                         <h2 class="mt-4 mb-3">Formulir Pengaduan</h2>
                     </div>
